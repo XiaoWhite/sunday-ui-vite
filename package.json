@@ -1,0 +1,23 @@
+{
+  "name": "sunday-ui-vite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "@vitejs/plugin-vue-jsx": "^2.0.0",
+    "sass": "^1.54.4",
+    "vite": "^3.0.9"
+  },
+  "dependencies": {
+    "vue": "^3.2.37"
+  }
+}
